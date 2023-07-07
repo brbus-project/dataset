@@ -1,0 +1,71 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+BRA_338958,Brasília,5300108,,Urbi,0.817,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_817-Brasilia-1702-851595-454966-0,-1.0,-15.83586,-48.08287,0.0,,,1,2023-06-14T05:01:06+00:00
+BRA_338320,Brasília,5300108,,Taguatur,4810,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-4810-Brasilia-1702-854428-755327-0,-1.0,-15.92188,-48.10881,0.0,,,2,2023-06-14T05:01:57+00:00
+BRA_340081,Brasília,5300108,,Taguatur,4701,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-4701-Brasilia-1702-854428-755317-0,-1.0,-15.89932,-48.12148,0.0,,,1,2023-06-14T05:02:00+00:00
+BRA_338168,Brasília,5300108,,,4800,,,-15.8117,-48.1132,7.5,,,2,2023-06-14T05:02:01+00:00
+BRA_336726,Brasília,5300108,,Urbi,0.830,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_830-Brasilia-1702-851595-519384-0,-1.0,-15.83539,-48.08289,0.28,,,1,2023-06-14T05:02:03+00:00
+BRA_339822,Brasília,5300108,,,4760,,,-15.8994,-48.12192,0.0,,,2,2023-06-14T05:02:05+00:00
+BRA_338656,Brasília,5300108,,,4840,,,-15.92136,-48.10835,0.28,,,1,2023-06-14T05:02:16+00:00
+BRA_442160,Brasília,5300108,,,ESPP2,,,-15.846297,-48.107503,57.0,,,2,2023-06-14T05:02:17+00:00
+BRA_440388,Brasília,5300108,,,ESPF2,,,-15.994047,-48.05211,57.0,,,2,2023-06-14T05:02:17+00:00
+BRA_443034,Brasília,5300108,,,ESPP3,,,-15.851853,-48.112307,16.0,,,2,2023-06-14T05:02:17+00:00
+BRA_442003,Brasília,5300108,,,ESPP1,,,-15.8387,-48.108783,24.0,,,2,2023-06-14T05:02:17+00:00
+BRA_440191,Brasília,5300108,,,ESPSI,,,-15.869507,-48.038317,0.0,,,2,2023-06-14T04:08:23+00:00
+BRA_443930,Brasília,5300108,,,ESPP4,,,-15.83545,-48.08274,0.0,,,2,2023-06-14T05:02:17+00:00
+BRA_440621,Brasília,5300108,,,ESPF1,,,-15.917833,-48.101493,38.0,,,2,2023-06-14T05:02:17+00:00
+BRA_441376,Brasília,5300108,,,ESPFG,,,-15.833803,-48.081953,42.0,,,2,2023-06-14T05:02:17+00:00
+BRA_441244,Brasília,5300108,,,ESPFA,,,-15.84131,-48.130193,6.0,,,2,2023-06-14T05:02:17+00:00
+BRA_444243,Brasília,5300108,,Marechal,0.933,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_933-Brasilia-1702-851940-463647-0,-1.0,-15.83426,-48.080013,59.0,,,2,2023-06-14T05:02:17+00:00
+BRA_445029,Brasília,5300108,,Marechal,0.932,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_932-Brasilia-1702-851940-538949-0,-1.0,-15.835437,-48.082707,0.0,,,2,2023-06-14T05:02:12+00:00
+BRA_441490,Brasília,5300108,,,ESPPS,,,-15.8264,-48.120857,26.0,,,2,2023-06-14T05:02:17+00:00
+BRA_229768,Brasília,5300108,,Pioneira,0.185,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_185-Brasilia-1702-851941-691096-0,-1.0,-15.838273,-47.919317,,,,1,2023-06-14T05:01:54+00:00
+BRA_231321,Brasília,5300108,,Pioneira,3312,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3312-Brasilia-1702-851941-616181-0,-1.0,-16.042893,-48.028222,,,,2,2023-06-14T05:01:56+00:00
+BRA_230120,Brasília,5300108,,Pioneira,3312,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3312-Brasilia-1702-851941-616181-0,-1.0,-16.023692,-48.031878,,,,1,2023-06-14T05:01:12+00:00
+BRA_228303,Brasília,5300108,,Taguatur,3305,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3305-Brasilia-1702-854428-77810673-0,-1.0,-16.029192,-47.984446,,,,1,2023-06-13T23:03:30+00:00
+BRA_231631,Brasília,5300108,,Pioneira,0.762,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_762-Brasilia-1702-851941-576189-0,-1.0,-15.780985,-47.887763,,,,1,2023-06-11T23:23:20+00:00
+BRA_228010,Brasília,5300108,,Taguatur,3305,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3305-Brasilia-1702-854428-77810673-0,-1.0,-16.007159,-48.058047,,,,1,2023-06-14T05:02:10+00:00
+BRA_229555,Brasília,5300108,,Pioneira,0.224,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_224-Brasilia-1702-851941-527243-0,-1.0,-16.02339,-48.070521,,,,1,2023-06-14T05:02:34+00:00
+BRA_226572,Brasília,5300108,,Pioneira,784.3,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-784_3-Brasilia-1702-851941-46904557-0,-1.0,-15.736094,-47.764936,,,,1,2023-06-10T20:50:34+00:00
+BRA_228575,Brasília,5300108,,Pioneira,0.255,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_255-Brasilia-1702-851941-706978-0,-1.0,-15.807093,-48.066255,,,,2,2023-06-13T16:02:16+00:00
+BRA_231789,Brasília,5300108,,Pioneira,0.764,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_764-Brasilia-1702-851941-516641-0,-1.0,-15.766182,-47.77507,,,,2,2023-06-13T22:18:46+00:00
+BRA_229971,Brasília,5300108,,,3204,,,-16.000486,-48.064316,,,,1,2023-06-14T05:01:14+00:00
+BRA_228079,Brasília,5300108,,Taguatur,3305,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3305-Brasilia-1702-854428-77810673-0,-1.0,-16.007022,-48.058066,,,,1,2023-06-14T05:02:26+00:00
+BRA_228907,Brasília,5300108,,Pioneira,251.8,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-251_8-Brasilia-1702-851941-708654-0,-1.0,-16.025021,-48.032406,,,,1,2023-06-14T05:02:32+00:00
+BRA_231401,Brasília,5300108,,Pioneira,183.7,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-183_7-Brasilia-1702-851941-242922-0,-1.0,-15.905892,-47.76074,,,,1,2023-06-14T05:01:18+00:00
+BRA_230154,Brasília,5300108,,Pioneira,251.8,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-251_8-Brasilia-1702-851941-708654-0,-1.0,-16.026894,-48.03252,,,,1,2023-06-14T05:01:38+00:00
+BRA_227315,Brasília,5300108,,Taguatur,3305,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3305-Brasilia-1702-854428-77810673-0,-1.0,-16.037921,-48.056699,,,,1,2023-06-14T05:01:14+00:00
+BRA_229881,Brasília,5300108,,Pioneira,180.2,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-180_2-Brasilia-1702-851941-514539-0,-1.0,-15.795752,-47.873057,,,,1,2023-06-10T19:56:04+00:00
+BRA_229415,Brasília,5300108,,Pioneira,0.255,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_255-Brasilia-1702-851941-706978-0,-1.0,-16.023867,-48.031757,,,,1,2023-06-14T05:01:44+00:00
+BRA_223930,Brasília,5300108,,Pioneira,2310,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2310-Brasilia-1702-851941-57764377-0,-1.0,-15.813036,-47.949141,,,,2,2023-06-13T21:56:00+00:00
+BRA_227048,Brasília,5300108,,Pioneira,2206,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2206-Brasilia-1702-851941-18556637-0,-1.0,-16.005957,-48.056686,,,,1,2023-06-14T05:01:16+00:00
+BRA_232424,Brasília,5300108,,Pioneira,3312,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3312-Brasilia-1702-851941-616181-0,-1.0,-16.041618,-48.027962,,,,2,2023-06-14T05:01:54+00:00
+BRA_232343,Brasília,5300108,,Pioneira,3310,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3310-Brasilia-1702-851941-616180-0,-1.0,-16.039495,-48.034078,,,,1,2023-06-14T05:02:30+00:00
+BRA_232238,Brasília,5300108,,Pioneira,0.224,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_224-Brasilia-1702-851941-527243-0,-1.0,-15.946118,-47.997429,,,,2,2023-06-14T05:02:00+00:00
+BRA_228982,Brasília,5300108,,Pioneira,3312,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-3312-Brasilia-1702-851941-616181-0,-1.0,-16.028003,-48.022055,,,,1,2023-06-14T05:01:30+00:00
+BRA_228575,Brasília,5300108,,Pioneira,0.255,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_255-Brasilia-1702-851941-706978-0,-1.0,-15.805875,-48.076001,,,,2,2023-06-12T15:58:20+00:00
+BRA_229601,Brasília,5300108,,Pioneira,784.3,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-784_3-Brasilia-1702-851941-46904557-0,-1.0,-15.74693,-47.782534,,,,1,2023-06-13T16:18:12+00:00
+BRA_229423,Brasília,5300108,,Pioneira,250.3,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-250_3-Brasilia-1702-851941-775127-0,-1.0,-16.029475,-48.024249,,,,1,2023-06-14T05:02:28+00:00
+BRA_231452,Brasília,5300108,,Pioneira,784.3,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-784_3-Brasilia-1702-851941-46904557-0,-1.0,-15.736647,-47.766125,,,,1,2023-06-14T05:02:14+00:00
+BRA_229695,Brasília,5300108,,Pioneira,0.765,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_765-Brasilia-1702-851941-576190-0,-1.0,-15.737313,-47.7665,,,,1,2023-06-14T05:02:22+00:00
+BRA_229962,Brasília,5300108,,,3204,,,-16.006186,-48.056998,,,,1,2023-06-14T05:01:54+00:00
+BRA_77356,Brasília,5300108,,Urbi,0.818,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_818-Brasilia-1702-851595-242550-0,-1.0,-15.922461,-48.109615,,,,1,2023-06-14T05:02:38+00:00
+BRA_77372,Brasília,5300108,,Urbi,0.873,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_873-Brasilia-1702-851595-510238-0,-1.0,-15.922675,-48.108738,,,,1,2023-06-14T01:17:10+00:00
+BRA_710415,Brasília,5300108,,São José,0.310,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_310-Brasilia-1702-851943-775131-0,-1.0,-15.787665,-48.134595,,,,1,2023-06-13T02:43:20+00:00
+BRA_76783,Brasília,5300108,,Urbi,0.346,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_346-Brasilia-1702-851595-46461186-0,-1.0,-15.799127,-48.14836,,,,1,2023-06-13T01:50:28+00:00
+BRA_79189,Brasília,5300108,,São José,0.949,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_949-Brasilia-1702-851943-707026-0,-1.0,-15.787962,-48.134583,,,,1,2023-06-13T17:55:32+00:00
+BRA_500038,Brasília,5300108,,São José,0.402,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_402-Brasilia-1702-851943-781335-0,-1.0,-15.786842,-48.174974,,,,1,2023-06-10T23:41:42+00:00
+BRA_711004,Brasília,5300108,,São José,402.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-402_1-Brasilia-1702-851943-707060-0,-1.0,-15.680434,-48.187969,,,,1,2023-06-14T00:03:56+00:00
+BRA_710270,Brasília,5300108,,São José,928.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-928_1-Brasilia-1702-851943-707067-0,-1.0,-15.823204,-48.127017,,,,1,2023-06-13T21:38:36+00:00
+BRA_79391,Brasília,5300108,,Urbi,0.038,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_038-Brasilia-1702-851595-687419-0,-1.0,-15.885652,-48.022812,,,,1,2023-06-12T19:10:18+00:00
+BRA_711250,Brasília,5300108,,São José,0.092,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_092-Brasilia-1702-851943-496589-0,-1.0,-15.821139,-47.954781,,,,1,2023-06-14T02:47:44+00:00
+BRA_710962,Brasília,5300108,,São José,406.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-406_1-Brasilia-1702-851943-707061-0,-1.0,-15.671681,-48.199223,,,,2,2023-06-14T00:04:20+00:00
+BRA_77283,Brasília,5300108,,Urbi,0.960,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_960-Brasilia-1702-851595-29427890-0,-1.0,-15.922434,-48.108738,,,,1,2023-06-13T21:47:32+00:00
+BRA_79081,Brasília,5300108,,Urbi,0.886,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_886-Brasilia-1702-851595-704024-0,-1.0,-15.787927,-48.134659,,,,2,2023-06-12T15:13:30+00:00
+BRA_79774,Brasília,5300108,,São José,409.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-409_1-Brasilia-1702-851943-772861-0,-1.0,-15.679102,-48.200316,,,,1,2023-06-13T23:43:24+00:00
+BRA_120081,Brasília,5300108,,Piracicabana,0.620,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_620-Brasilia-1702-850942-470748-0,-1.0,-15.60932,-47.65472,,,,,2023-06-14T05:01:33+00:00
+BRA_121061,Brasília,5300108,,Piracicabana,0.631,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_631-Brasilia-1702-850942-546206-0,-1.0,-15.72336,-47.89576,,,,1,2023-06-14T05:01:35+00:00
+BRA_119661,Brasília,5300108,,Piracicabana,0.520,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_520-Brasilia-1702-850942-474393-0,-1.0,-15.68951,-47.86223,,,,,2023-06-14T05:01:37+00:00
+BRA_117048,Brasília,5300108,,Piracicabana,031.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-031_1-Brasilia-1702-850942-94015936-0,-1.0,-15.79402,-47.88312,,,,1,2023-06-14T05:01:48+00:00
+BRA_116718,Brasília,5300108,,Piracicabana,031.2,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-031_2-Brasilia-1702-850942-94015937-0,-1.0,-15.79223,-47.88429,,,,,2023-06-14T05:01:50+00:00
+BRA_116149,Brasília,5300108,,Piracicabana,0.631,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-0_631-Brasilia-1702-850942-546206-0,-1.0,-15.64624,-47.7658,,,,,2023-06-14T05:02:04+00:00
+BRA_116947,Brasília,5300108,,Piracicabana,035.1,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-035_1-Brasilia-1702-850942-94015938-0,-1.0,-15.79756,-47.88462,,,,,2023-06-14T05:02:06+00:00
