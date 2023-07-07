@@ -1,0 +1,4 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+CUR_GL308,Curitiba,4106902,0,URBS,506,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-506_BAIRRO_NOVO-Curitiba-942-9628-294299-0,-1.0,-25.548626,-49.290911,,False,3,2,2023-06-19T15:14:42.222674+00:00
+CUR_GI009,Curitiba,4106902,1,,649,,,-25.549811,-49.292075,,False,1,1,2023-06-19T15:14:42.222674+00:00
+CUR_GI045,Curitiba,4106902,1,,625,,,-25.553423,-49.2675,,False,1,2,2023-06-19T15:14:42.222674+00:00

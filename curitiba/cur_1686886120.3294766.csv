@@ -1,0 +1,2 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+CUR_EA192,Curitiba,4106902,1,,519,,,-25.454723,-49.26033,,False,1,,2023-06-16T03:26:40.329477+00:00

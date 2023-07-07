@@ -1,0 +1,5 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+CUR_BC309,Curitiba,4106902,1,,205,,,-25.395131,-49.2428,,False,3,1,2023-06-18T03:28:22.678557+00:00
+CUR_MI851,Curitiba,4106902,1,,989,,,-25.420023,-49.294351,,False,7,,2023-06-18T03:20:22.678557+00:00
+CUR_EA192,Curitiba,4106902,1,,519,,,-25.449881,-49.262658,,False,1,,2023-06-18T03:26:22.678557+00:00
+CUR_JI856,Curitiba,4106902,1,,788,,,-25.449368,-49.366966,,False,7,,2023-06-18T03:27:22.678557+00:00
