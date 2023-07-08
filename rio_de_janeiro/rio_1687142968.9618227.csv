@@ -1,0 +1,93 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+RIO_A29106,Rio de Janeiro,3304557,,Braso Lisboa,476,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-476-Rio_de_Janeiro-322-1847720-29396602-0,4.3,-22.89523,-43.56056,0.0,,,,2023-06-18T07:52:13+00:00
+RIO_B27159,Rio de Janeiro,3304557,,Caprichosa,639,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-639-Rio_de_Janeiro-322-1854463-29645240-0,4.3,-22.82018,-43.3146,61.0,,,,2023-06-18T08:16:49+00:00
+RIO_D87835,Rio de Janeiro,3304557,,Frescão,2336,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2336-Rio_de_Janeiro-322-1042945-32190601-0,19.95,-22.91689,-43.60766,0.0,,,,2023-06-18T09:22:42+00:00
+RIO_C50050,Rio de Janeiro,3304557,,Auto Viação Tijuca,302,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-302-Rio_de_Janeiro-322-1847723-29645102-0,4.3,-22.9287,-43.2542,0.0,,,,2023-06-18T09:45:34+00:00
+RIO_A72014,Rio de Janeiro,3304557,,Viação Mauá,422,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-422-Rio_de_Janeiro-322-857740-58493995-0,5.3,-22.889,-43.2925,0.0,,,,2023-06-18T10:02:47+00:00
+RIO_B31030,Rio de Janeiro,3304557,,Viação VG,484,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-484-Rio_de_Janeiro-322-1854465-60176292-0,4.3,-22.80516,-43.30986,0.0,,,,2023-06-18T12:10:23+00:00
+RIO_C30167,Rio de Janeiro,3304557,,Transportes Futuro,555,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-555-Rio_de_Janeiro-322-1847725-29396583-0,4.3,-22.95065,-43.34804,0.0,,,,2023-06-18T12:24:56+00:00
+RIO_A72039,Rio de Janeiro,3304557,,Redentor,691,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-691-Rio_de_Janeiro-322-1854466-123820375-0,4.3,-22.88883,-43.29269,0.0,,,,2023-06-18T12:35:59+00:00
+RIO_C50069,Rio de Janeiro,3304557,,Auto Viação Tijuca,302,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-302-Rio_de_Janeiro-322-1847723-29645102-0,4.3,-22.92914,-43.25309,0.0,,,,2023-06-18T12:49:37+00:00
+RIO_C72022,Rio de Janeiro,3304557,,Viação Mauá,422,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-422-Rio_de_Janeiro-322-857740-58493995-0,5.3,-22.88995,-43.29243,0.0,,,,2023-06-18T13:38:38+00:00
+RIO_B27084,Rio de Janeiro,3304557,,Caprichosa,639,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-639-Rio_de_Janeiro-322-1854463-29645240-0,4.3,-22.81655,-43.30186,0.0,,,,2023-06-18T13:50:11+00:00
+RIO_D86717,Rio de Janeiro,3304557,,Jabour,2803,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2803-Rio_de_Janeiro-322-1845281-91196501-0,18.5,-22.89554,-43.53288,0.0,,,,2023-06-18T15:01:21+00:00
+RIO_D17095,Rio de Janeiro,3304557,,Auto Viação Palmares,893,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-893-Rio_de_Janeiro-322-1847722-89327384-0,4.3,-22.9174,-43.6074,4.0,,,,2023-06-18T15:14:55+00:00
+RIO_D86040,Rio de Janeiro,3304557,,Jabour,867,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-867-Rio_de_Janeiro-322-1845281-29396508-0,4.3,-22.89514,-43.53314,0.0,,,,2023-06-18T15:15:03+00:00
+RIO_D86041,Rio de Janeiro,3304557,,Jabour,867,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-867-Rio_de_Janeiro-322-1845281-29396508-0,4.3,-22.8953,-43.53304,0.0,,,,2023-06-18T15:19:51+00:00
+RIO_B63088,Rio de Janeiro,3304557,,Gire,919,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-919-Rio_de_Janeiro-322-1847718-29396590-0,4.3,-22.79232,-43.29433,0.0,,,,2023-06-18T15:23:15+00:00
+RIO_D13191,Rio de Janeiro,3304557,,Transportes Barra,794,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-794-Rio_de_Janeiro-322-1847715-29396619-0,4.3,-22.87943,-43.35714,8.0,,,,2023-06-18T15:29:04+00:00
+RIO_D86044,Rio de Janeiro,3304557,,Jabour,867,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-867-Rio_de_Janeiro-322-1845281-29396508-0,4.3,-22.89531,-43.53307,0.0,,,,2023-06-18T15:42:04+00:00
+RIO_D86046,Rio de Janeiro,3304557,,Jabour,867,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-867-Rio_de_Janeiro-322-1845281-29396508-0,4.3,-22.89537,-43.53312,0.0,,,,2023-06-18T15:49:10+00:00
+RIO_C47548,Rio de Janeiro,3304557,,Redentor,861,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-861-Rio_de_Janeiro-322-1854466-29645207-0,4.3,-22.95295,-43.34853,0.0,,,,2023-06-18T16:11:15+00:00
+RIO_D12165,Rio de Janeiro,3304557,,Expresso Recreio (Frescão),2383,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2383-Rio_de_Janeiro-322-3213931-91196504-0,19.95,-22.89587,-43.55995,0.0,,,,2023-06-18T16:41:57+00:00
+RIO_C47988,Rio de Janeiro,3304557,,Redentor,2112,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2112-Rio_de_Janeiro-322-1854466-91348071-0,4.3,-22.87994,-43.35688,0.0,,,,2023-06-18T16:58:11+00:00
+RIO_D87713,Rio de Janeiro,3304557,,Frescão,2307,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2307-Rio_de_Janeiro-322-1042945-64620317-0,19.95,-22.91701,-43.60805,0.0,,,,2023-06-18T17:39:12+00:00
+RIO_D86316,Rio de Janeiro,3304557,,Jabour,838,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-838-Rio_de_Janeiro-322-1845281-29396517-0,4.3,-22.89434,-43.53196,0.0,,,,2023-06-18T18:03:59+00:00
+RIO_C50073,Rio de Janeiro,3304557,,,LECD38,,,-22.92916,-43.25319,0.0,,,,2023-06-18T18:09:23+00:00
+RIO_D12156,Rio de Janeiro,3304557,,Expresso Recreio (Frescão),2802,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2802-Rio_de_Janeiro-322-3213931-90970579-0,18.5,-22.89577,-43.5609,0.0,,,,2023-06-18T18:10:02+00:00
+RIO_B44633,Rio de Janeiro,3304557,,Internorte,355,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-355-Rio_de_Janeiro-322-856536-560694-0,4.3,-22.86039,-43.35558,0.0,,,,2023-06-18T18:10:36+00:00
+RIO_A72034,Rio de Janeiro,3304557,,Transurb,410,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-410-Rio_de_Janeiro-322-1847712-29396548-0,4.3,-22.89,-43.29235,0.0,,,,2023-06-18T18:32:55+00:00
+RIO_D87320,Rio de Janeiro,3304557,,Auto Viação Palmares,822,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-822-Rio_de_Janeiro-322-1847722-68976495-0,4.3,-22.91718,-43.60842,0.0,,,,2023-06-18T18:50:54+00:00
+RIO_D13347,Rio de Janeiro,3304557,,Transportes Barra,741,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-741-Rio_de_Janeiro-322-1847715-86194730-0,4.3,-22.87958,-43.35697,0.0,,,,2023-06-18T19:58:32+00:00
+RIO_D13206,Rio de Janeiro,3304557,,,SV777,,,-23.42385,-43.16464,83.0,,,,2023-06-18T20:16:59+00:00
+RIO_D53579,Rio de Janeiro,3304557,,,,,,-22.88437,-43.49486,0.0,,,,2023-06-18T20:18:15+00:00
+RIO_D53579,Rio de Janeiro,3304557,,Transportes Campo Grande,397,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-397-Rio_de_Janeiro-322-1847719-29396593-0,4.3,-22.88437,-43.49486,0.0,,,,2023-06-18T20:18:15+00:00
+RIO_D86065,Rio de Janeiro,3304557,,Jabour,864,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-864-Rio_de_Janeiro-322-1845281-29396565-0,4.3,-22.89521,-43.53315,0.0,,,,2023-06-18T20:19:52+00:00
+RIO_B44660,Rio de Janeiro,3304557,,Auto Viação Três Amigos,638,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-638-Rio_de_Janeiro-322-1854468-29645157-0,4.3,-22.8607,-43.35632,22.0,,,,2023-06-18T20:25:40+00:00
+RIO_D17060,Rio de Janeiro,3304557,,Auto Viação Palmares,830,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-830-Rio_de_Janeiro-322-1847722-109459954-0,4.3,-22.91736,-43.60805,0.0,,,,2023-06-18T20:46:24+00:00
+RIO_B71066,Rio de Janeiro,3304557,,Viação Verdun,238,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-238-Rio_de_Janeiro-322-1854469-29645202-0,4.3,-22.88937,-43.29259,0.0,,,,2023-06-18T21:22:22+00:00
+RIO_D53904,Rio de Janeiro,3304557,,,,,,-22.88439,-43.49487,0.0,,,,2023-06-18T21:27:23+00:00
+RIO_D53904,Rio de Janeiro,3304557,,Transportes Campo Grande,2310,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-369-Rio_de_Janeiro-322-1847719-29396514-0,4.3,-22.88439,-43.49487,0.0,,,,2023-06-18T21:27:23+00:00
+RIO_C30353,Rio de Janeiro,3304557,,Transportes Futuro,565,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-565-Rio_de_Janeiro-322-1847725-29396534-0,4.3,-22.95011,-43.3482,0.0,,,,2023-06-18T21:46:16+00:00
+RIO_D87874,Rio de Janeiro,3304557,,Frescão,2336,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2336-Rio_de_Janeiro-322-1042945-32190601-0,19.95,-22.91675,-43.60846,0.0,,,,2023-06-18T21:50:00+00:00
+RIO_A41065,Rio de Janeiro,3304557,,Viação Mauá,100,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-100-Rio_de_Janeiro-322-857740-788893-0,6.3,-22.87502,-43.24078,0.0,,,,2023-06-18T21:55:02+00:00
+RIO_A72048,Rio de Janeiro,3304557,,Transurb,007,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-007-Rio_de_Janeiro-322-1847712-29396510-0,4.3,-22.88976,-43.29189,0.0,,,,2023-06-18T22:03:49+00:00
+RIO_D13326,Rio de Janeiro,3304557,,,SV394,,,-22.87623,-43.41978,0.0,,,,2023-06-18T22:09:06+00:00
+RIO_D86743,Rio de Janeiro,3304557,,Jabour,2338,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2338-Rio_de_Janeiro-322-1845281-91196502-0,18.5,-22.89367,-43.53223,0.0,,,,2023-06-18T22:29:13+00:00
+RIO_A63525,Rio de Janeiro,3304557,,Consórcio RESERVA DE TINGUÁ,107,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-107-Rio_de_Janeiro-322-859052-435290-0,4.45,-22.89522,-43.56086,0.0,,,,2023-06-18T22:31:08+00:00
+RIO_D87894,Rio de Janeiro,3304557,,Frescão,2339,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2339-Rio_de_Janeiro-322-1042945-32190604-0,19.95,-22.91698,-43.60735,0.0,,,,2023-06-18T22:54:59+00:00
+RIO_A72134,Rio de Janeiro,3304557,,Transurb,014,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-014-Rio_de_Janeiro-322-1847712-29396484-0,4.3,-22.88955,-43.29254,0.0,,,,2023-06-18T22:58:30+00:00
+RIO_D13069,Rio de Janeiro,3304557,,,SV790,,,-22.88081,-43.35847,0.0,,,,2023-06-18T23:26:02+00:00
+RIO_B32640,Rio de Janeiro,3304557,,,SV779,,,-22.81675,-43.39406,0.0,,,,2023-06-19T00:14:24+00:00
+RIO_B25522,Rio de Janeiro,3304557,,Âncora Matias,232,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-232-Rio_de_Janeiro-322-1847714-29396603-0,4.3,-22.90227,-43.2992,0.0,,,,2023-06-19T00:24:51+00:00
+RIO_C27194,Rio de Janeiro,3304557,,,SP265,,,-22.81703,-43.30409,28.0,,,,2023-06-19T00:36:01+00:00
+RIO_D13271,Rio de Janeiro,3304557,,Transportes Barra,756,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-756-Rio_de_Janeiro-322-1847715-29396628-0,4.3,-22.87586,-43.41963,0.0,,,,2023-06-19T00:36:01+00:00
+RIO_B27050,Rio de Janeiro,3304557,,Internorte,292,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-292-Rio_de_Janeiro-322-856536-655945-0,4.3,-22.81689,-43.30132,0.0,,,,2023-06-19T00:42:01+00:00
+RIO_D87884,Rio de Janeiro,3304557,,Frescão,2336,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2336-Rio_de_Janeiro-322-1042945-32190601-0,19.95,-22.91727,-43.60773,0.0,,,,2023-06-19T00:44:58+00:00
+RIO_A72145,Rio de Janeiro,3304557,,Viação Mauá,422,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-422-Rio_de_Janeiro-322-857740-58493995-0,5.3,-22.84279,-43.25428,0.0,,,,2023-06-19T00:59:32+00:00
+RIO_D87880,Rio de Janeiro,3304557,,Frescão,2336,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2336-Rio_de_Janeiro-322-1042945-32190601-0,19.95,-22.91797,-43.60827,0.0,,,,2023-06-19T01:08:34+00:00
+RIO_B10027,Rio de Janeiro,3304557,,Paranapuan,328,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-328-Rio_de_Janeiro-322-1854464-29645223-0,4.3,-22.81473,-43.18725,4.0,,,,2023-06-19T01:19:22+00:00
+RIO_A29149,Rio de Janeiro,3304557,,Intersul,472,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-472-Rio_de_Janeiro-322-856537-530962-0,4.3,-22.86837,-43.29176,0.0,,,,2023-06-19T01:22:11+00:00
+RIO_C47886,Rio de Janeiro,3304557,,TURP,613,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-613-Rio_de_Janeiro-322-1122364-697854-0,4.2,-22.95215,-43.34951,4.0,,,,2023-06-19T01:28:16+00:00
+RIO_D86063,Rio de Janeiro,3304557,,Jabour,864,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-864-Rio_de_Janeiro-322-1845281-29396565-0,4.3,-22.89377,-43.5325,0.0,,,,2023-06-19T01:28:43+00:00
+RIO_A72078,Rio de Janeiro,3304557,,Transurb,014,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-014-Rio_de_Janeiro-322-1847712-29396484-0,4.3,-22.88989,-43.29259,0.0,,,,2023-06-19T01:31:50+00:00
+RIO_B27217,Rio de Janeiro,3304557,,Internorte,355,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-355-Rio_de_Janeiro-322-856536-560694-0,4.3,-22.82491,-43.31179,27.0,,,,2023-06-19T01:38:59+00:00
+RIO_D87752,Rio de Janeiro,3304557,,Frescão,2336,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-2336-Rio_de_Janeiro-322-1042945-32190601-0,19.95,-22.91776,-43.60807,0.0,,,,2023-06-19T01:45:43+00:00
+RIO_B32729,Rio de Janeiro,3304557,,Pavunense,399,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-399-Rio_de_Janeiro-322-1854470-29645176-0,4.3,-22.81663,-43.39424,0.0,,,,2023-06-19T01:49:11+00:00
+RIO_A29115,Rio de Janeiro,3304557,,Braso Lisboa,583,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-583-Rio_de_Janeiro-322-1847720-35431185-0,4.3,-22.86855,-43.29293,0.0,,,,2023-06-19T01:49:51+00:00
+RIO_A29025,Rio de Janeiro,3304557,,Internorte,292,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-292-Rio_de_Janeiro-322-856536-655945-0,4.3,-22.86837,-43.29308,0.0,,,,2023-06-19T01:51:16+00:00
+RIO_D17014,Rio de Janeiro,3304557,,Auto Viação Palmares,895,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-895-Rio_de_Janeiro-322-1847722-85906966-0,4.3,-22.91818,-43.60793,0.0,,,,2023-06-19T01:51:21+00:00
+RIO_A29039,Rio de Janeiro,3304557,,Petro Ita,209,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-209-Rio_de_Janeiro-322-1122363-697760-0,4.2,-22.86839,-43.29304,0.0,,,,2023-06-19T01:53:58+00:00
+RIO_A29029,Rio de Janeiro,3304557,,Braso Lisboa,210,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-210-Rio_de_Janeiro-322-1847720-29396569-0,4.3,-22.8683,-43.29276,0.0,,,,2023-06-19T01:59:16+00:00
+RIO_C41391,Rio de Janeiro,3304557,,,553,,,-22.87567,-43.2417,0.0,,,,2023-06-19T02:07:33+00:00
+RIO_A48034,Rio de Janeiro,3304557,,Auto Viação Alpha,202,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-202-Rio_de_Janeiro-322-1847721-29396566-0,4.3,-22.91057,-43.27053,0.0,,,,2023-06-19T02:09:48+00:00
+RIO_A29053,Rio de Janeiro,3304557,,Braso Lisboa,474,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-474-Rio_de_Janeiro-322-1847720-29396581-0,4.3,-22.86804,-43.29217,0.0,,,,2023-06-19T02:16:07+00:00
+RIO_A29167,Rio de Janeiro,3304557,,Braso Lisboa,476,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-476-Rio_de_Janeiro-322-1847720-29396602-0,4.3,-22.86809,-43.29212,0.0,,,,2023-06-19T02:18:17+00:00
+RIO_D17137,Rio de Janeiro,3304557,,Auto Viação Palmares,771,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-771-Rio_de_Janeiro-322-1847722-29396542-0,4.3,-22.91649,-43.60743,0.0,,,,2023-06-19T02:25:22+00:00
+RIO_B27161,Rio de Janeiro,3304557,,Caprichosa,639,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-639-Rio_de_Janeiro-322-1854463-29645240-0,4.3,-22.81685,-43.30182,0.0,,,,2023-06-19T02:29:14+00:00
+RIO_B32644,Rio de Janeiro,3304557,,Pavunense,793,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-793-Rio_de_Janeiro-322-1854470-29645218-0,4.3,-22.89576,-43.56041,0.0,,,,2023-06-19T02:29:24+00:00
+RIO_A29158,Rio de Janeiro,3304557,,Braso Lisboa,583,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-583-Rio_de_Janeiro-322-1847720-35431185-0,4.3,-22.86802,-43.29174,0.0,,,,2023-06-19T02:29:28+00:00
+RIO_A29156,Rio de Janeiro,3304557,,,SV474,,,-22.86823,-43.29182,37.0,,,,2023-06-19T02:29:32+00:00
+RIO_D86258,Rio de Janeiro,3304557,,,SP852,,,-22.89492,-43.53282,0.0,,,,2023-06-19T02:29:34+00:00
+RIO_B25575,Rio de Janeiro,3304557,,TURP,606,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-606-Rio_de_Janeiro-322-1122364-697847-0,4.2,-22.90222,-43.29948,0.0,,,,2023-06-19T02:30:53+00:00
+RIO_B27162,Rio de Janeiro,3304557,,Caprichosa,629,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-629-Rio_de_Janeiro-322-1854463-29645180-0,4.3,-22.81677,-43.30158,5.0,,,,2023-06-19T02:37:46+00:00
+RIO_A72149,Rio de Janeiro,3304557,,Transurb,519,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-519-Rio_de_Janeiro-322-1847712-103418824-0,4.3,-22.84136,-43.25356,0.0,,,,2023-06-19T02:38:07+00:00
+RIO_D17001,Rio de Janeiro,3304557,,Auto Viação Palmares,822,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-822-Rio_de_Janeiro-322-1847722-68976495-0,4.3,-22.91804,-43.60784,9.0,,,,2023-06-19T02:40:32+00:00
+RIO_C27089,Rio de Janeiro,3304557,,Internorte,265,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-265-Rio_de_Janeiro-322-856536-545919-0,4.3,-22.81683,-43.30121,0.0,,,,2023-06-19T02:43:23+00:00
+RIO_A29076,Rio de Janeiro,3304557,,Petro Ita,209,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-209-Rio_de_Janeiro-322-1122363-697760-0,4.2,-22.86803,-43.29143,0.0,,,,2023-06-19T02:47:52+00:00
+RIO_A29089,Rio de Janeiro,3304557,,Internorte,292,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-292-Rio_de_Janeiro-322-856536-655945-0,4.3,-22.86796,-43.29033,0.0,,,,2023-06-19T02:51:05+00:00
+RIO_D13110,Rio de Janeiro,3304557,,Transportes Barra,803,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-803-Rio_de_Janeiro-322-1847715-29396612-0,4.3,-22.87603,-43.41928,0.0,,,,2023-06-19T02:53:54+00:00
+RIO_A29084,Rio de Janeiro,3304557,,TURP,711,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-711-Rio_de_Janeiro-322-1122364-697874-0,4.2,-22.86789,-43.2905,0.0,,,,2023-06-19T02:55:36+00:00
+RIO_A29191,Rio de Janeiro,3304557,,Petro Ita,457,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-457-Rio_de_Janeiro-322-1122363-697816-0,4.2,-22.86828,-43.29266,0.0,,,,2023-06-19T02:56:54+00:00
+RIO_B28623,Rio de Janeiro,3304557,,Viação Ideal,696,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-696-Rio_de_Janeiro-322-1243376-29645233-0,4.3,-22.81531,-43.18818,0.0,,,,2023-06-19T02:57:14+00:00
+RIO_A29095,Rio de Janeiro,3304557,,Braso Lisboa,583,https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-line-583-Rio_de_Janeiro-322-1847720-35431185-0,4.3,-22.95324,-43.17646,48.0,,,,2023-06-19T02:58:41+00:00
