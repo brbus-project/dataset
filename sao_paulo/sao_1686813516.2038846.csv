@@ -1,0 +1,2 @@
+bus_id,city,city_code,adapted,agency,line_code,line_url,line_fare,latitude,longitude,bus_speed,is_eletric,bus_type,bus_direction,updated_at
+SAO_2724-10,São Paulo,3550308,True,,938,,,-23.5396445,-46.483602,,,,1,2023-06-15T09:47:24+00:00
